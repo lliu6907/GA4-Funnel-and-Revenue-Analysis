@@ -14,3 +14,5 @@ LIMIT 3;
 -- 1. Google Zip Hoodie F/C ($13,788)
 -- 2. Google Crewneck Sweatshirt Navy ($10,714)
 -- 3. Google Men’s Tech Fleece Grey ($9,965)
+
+-- Insight: Google Men’s Tech Fleece Grey generated $436 more revenue compared to Super G Unisex Joggers
