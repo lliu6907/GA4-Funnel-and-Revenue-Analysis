@@ -1,13 +1,13 @@
 # Google Merch Store Funnel and Revenue Analysis
 
 ## Overview
-This project analyzes Google Merchandise Store e-commerce data using SQL in BigQuery. The goal was to understand which products and categories drove the most revenue, where users dropped off before purchasing, and whether conversion behavior differed by device.
+This project analyzes [Google Merchandise Store e-commerce data](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table) using SQL in BigQuery. The goal was to understand which products and categories drove the most revenue, where users dropped off before purchasing, and whether conversion behavior differed by device.
 
 ## Objective
 Analyze where users drop off before purchase and identify revenue-driving patterns in the Google Merchandise Store.
 
 ## Dataset
-- Google Analytics 4 (GA4) sample e-commerce dataset
+- [Google Analytics 4 (GA4) sample e-commerce dataset](https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table)
 - Queried in BigQuery
 - Analysis focused on purchase behavior, revenue, funnel progression, and device-level conversion
 
