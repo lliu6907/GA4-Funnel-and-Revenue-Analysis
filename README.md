@@ -50,9 +50,10 @@ The top revenue-driving products were:
 This shows that the most frequently purchased products were not always the exact same products generating the highest revenue.
 
 ### 3. Revenue by Category
-<p align="center">
+<p align="left">
   <img src="images/revenue_by_category" alt="Top 5 Product Categories by Revenue Share" width="450">
 </p>
+
 Top revenue-driving categories:
 - Apparel — $171,727
 - New — $25,813
