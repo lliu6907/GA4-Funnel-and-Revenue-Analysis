@@ -35,7 +35,7 @@ Analyze where users drop off before purchase and identify revenue-driving patter
 
 ### 1. Top Purchased Products
 <p align="left">
-  <img src="images/top3_most_purchased" alt="Top 3 Most Purchased Products" width="250">
+  <img src="images/top3_products" alt="Top 3 Most Purchased Products" width="250">
 </p>
 
 The top purchased products were:
