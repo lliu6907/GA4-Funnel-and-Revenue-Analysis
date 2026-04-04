@@ -104,16 +104,10 @@ Device-level conversion was fairly consistent, with mobile slightly outperformin
 ```text
 .
 ├── README.md
-├── queries/
-│   ├── 01_top_products_by_purchase_count.sql
-│   ├── 02_top_products_by_revenue.sql
-│   ├── 03_revenue_by_category.sql
-│   ├── 04_funnel_event_counts.sql
-│   ├── 05_funnel_distinct_users.sql
-│   └── 06_device_funnel.sql
-├── images/
-│   ├── top-products-revenue.png
-│   ├── category-revenue.png
-│   └── funnel-summary.png
-└── notes/
-    └── findings.md
+└── queries/
+    ├── 01_top_products_by_purchase_count.sql
+    ├── 02_revenue_for_top_purchased_products.sql
+    ├── 03_top_products_by_revenue.sql
+    ├── 04_revenue_by_category.sql
+    ├── 05_funnel_distinct_users.sql
+    └── 06_device_funnel.sql
