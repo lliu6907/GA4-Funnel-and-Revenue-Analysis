@@ -42,10 +42,6 @@ The top purchased products were:
 This suggests that demand was concentrated among wearable apparel items.
 
 ### 2. Top Revenue-Generating Products
-<p align="left">
-  <img src="images/top3_revenue" alt="Top 3 Revenue Generating Products" width="450">
-</p>
-
 The top revenue-driving products were:
 - Google Zip Hoodie F/C — $13,788
 - Google Crewneck Sweatshirt Navy — $10,714
