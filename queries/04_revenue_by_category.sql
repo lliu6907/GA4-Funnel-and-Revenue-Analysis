@@ -15,5 +15,3 @@ LIMIT 5
 -- Bags: $23,860
 -- Campus Collection: $20,061
 -- Accessories: $17,815
-
--- Insight: The top three product categories that drove money consisted of apparel, new, and bags with $171,727, $25,813, and $23,860 of revenue, respectively. Apparel made up 66.2% of revenue compared to the other 4.
