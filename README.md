@@ -55,7 +55,7 @@ This shows that the most frequently purchased products were not always the exact
 
 ### 3. Revenue by Category
 <p align="left">
-  <img src="images/revenue_by_category" alt="Top 5 Product Categories by Revenue Share" width="450">
+  <img src="images/product_category_pie" alt="Top 5 Product Categories by Revenue Share" width="450">
 </p>
 
 Top revenue-driving categories:
