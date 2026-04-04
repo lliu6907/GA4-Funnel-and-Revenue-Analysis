@@ -34,6 +34,10 @@ Analyze where users drop off before purchase and identify revenue-driving patter
 ## Key Findings
 
 ### 1. Top Purchased Products
+<p align="left">
+  <img src="images/top3_most_purchased" alt="Top 3 Most Purchased Products" width="450">
+</p>
+
 The top purchased products were:
 - Super G Unisex Joggers
 - Google Zip Hoodie F/C
