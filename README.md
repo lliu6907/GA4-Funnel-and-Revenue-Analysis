@@ -34,10 +34,6 @@ Analyze where users drop off before purchase and identify revenue-driving patter
 ## Key Findings
 
 ### 1. Top Purchased Products
-<p align="left">
-  <img src="images/top3_products" alt="Top 3 Most Purchased Products" width="250">
-</p>
-
 The top purchased products were:
 - Super G Unisex Joggers
 - Google Zip Hoodie F/C
@@ -46,6 +42,10 @@ The top purchased products were:
 This suggests that demand was concentrated among wearable apparel items.
 
 ### 2. Top Revenue-Generating Products
+<p align="left">
+  <img src="images/top3_revenue" alt="Top 3 Revenue Generating Products" width="450">
+</p>
+
 The top revenue-driving products were:
 - Google Zip Hoodie F/C — $13,788
 - Google Crewneck Sweatshirt Navy — $10,714
