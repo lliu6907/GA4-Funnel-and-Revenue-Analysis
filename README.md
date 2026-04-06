@@ -35,11 +35,11 @@ Analyze where users drop off before purchase and identify revenue-driving patter
 
 ### 1. Top Purchased Products
 The top purchased products were:
-- Super G Unisex Joggers
-- Google Zip Hoodie F/C
-- Google Crewneck Sweatshirt Navy
+- Google Clear Pen 4-Pack (444 purchases)
+- Google Laptop and Cell Phone Stickers (416 purchases)
+- Google Metallic Notebook Set (365 purchases)
 
-This suggests that demand was concentrated among wearable apparel items.
+This suggests that demand was concentrated among stationary items, like pens, stickers, and notebooks.
 
 ### 2. Top Revenue-Generating Products
 <p align="left">
