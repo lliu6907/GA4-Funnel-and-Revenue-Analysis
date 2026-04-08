@@ -61,7 +61,7 @@ SELECT
 
 -- Result
 -- viewed: 61,252
--- add_to_cart: 12,052
--- begin_checkout: 4,909
--- purchase: 2,833
+-- added_to_cart: 12,052
+-- began_checkout: 4,909
+-- purchased: 2,833
 
