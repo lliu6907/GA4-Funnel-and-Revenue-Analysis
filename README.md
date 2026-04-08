@@ -113,6 +113,11 @@ Device-level conversion was fairly consistent, with mobile slightly outperformin
   - Only 19.68% of users who viewed a product moved to `added_to_cart` (12,052 out of 61,252), making this the largest drop-off point in the funnel.
 - Investigate broader purchase funnel friction rather than device-specific fixes first.
   - Conversion was fairly similar across devices: overall `viewed_item` → `purchased` was 4.44% on desktop, 4.74% on mobile, and 4.30% on tablet.
+ 
+## Limitations
+- This analysis uses the GA4 sample e-commerce dataset, so findings are meant to demonstrate analytical approach rather than serve as direct business recommendations for a live company.
+ Funnel results are based on user_pseudo_id and ordered event timestamps, which capture sequential user progression but do not guarantee a same-session purchase journey.
+- Because GA4 BigQuery export contains raw event data, results may differ from GA4 UI reports, which can include additional modeling and reporting logic.
 
 ## Repository Structure
 ```text
