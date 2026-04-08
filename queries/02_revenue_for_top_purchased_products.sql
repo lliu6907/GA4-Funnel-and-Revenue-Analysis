@@ -12,6 +12,6 @@ ORDER BY purchase_count DESC
 LIMIT 3;
 
 -- Result: 
--- 1. Google Zip Hoodie F/C ($13,788)
--- 2. Google Crewneck Sweatshirt Navy ($10,714)
--- 3. Super G Unisex Joggers ($9,529)
+-- 1. Google Clear Pen 4-Pack ($1,376)
+-- 2. Google Laptop and Cell Phone Stickers ($1,095)
+-- 3. Google Metallic Notebook Set ($1,870)
