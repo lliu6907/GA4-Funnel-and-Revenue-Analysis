@@ -3,7 +3,7 @@
 SELECT
  item.item_name,
  SUM(item.item_revenue_in_usd) AS revenue_usd,
- COUNT(*) AS purchase_count
+ SUM(item.quantity) AS purchase_count
 FROM `bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`,
 UNNEST(items) AS item
 WHERE event_name = 'purchase' AND item.item_name <> '(not set)'
