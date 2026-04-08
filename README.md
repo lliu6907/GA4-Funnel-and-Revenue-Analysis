@@ -30,6 +30,7 @@ Analyze where users drop off before purchase and identify revenue-driving patter
 - Grouping with `GROUP BY`
 - Custom ordering with `CASE`
 - Working with nested data using `UNNEST(items)`
+- Using CTEs to conduct a sequential user-level funnel
 
 ## Key Findings
 
@@ -66,17 +67,19 @@ Top revenue-driving categories:
 Apparel generated the majority of category revenue, contributing 66.2% of revenue among the top categories analyzed.
 
 ### 4. Funnel Drop-Off
-Distinct-user funnel results:
-- `view_item`: 61,252
-- `add_to_cart`: 12,545
-- `begin_checkout`: 9,715
-- `purchase`: 4,419
+Sequential-level user funnel results:
+- `viewed`: 61,252
+- `added_to_cart`: 12,052
+- `began_checkout`: 4,909
+- `purchased`: 2,833
 
 Conversion rates:
-- View item → Add to cart: 20.48%
-- Add to cart → Begin checkout: 77.44%
-- Begin checkout → Purchase: 45.49%
-- View item → Purchase overall: 7.21%
+- View → Add to Cart: 12,052 / 61,252 = 19.68%
+- Add to Cart → Begin Checkout: 4,909 / 12,052 = 40.73%
+- Begin Checkout → Purchase: 2,833 / 4,909 = 57.71%
+
+Overall Conversion Rate:
+- View → Purchase: 2,833 / 61,252 = 4.63%
 
 The largest drop-off occurred between product view and add-to-cart, suggesting that the strongest opportunity for optimization may be earlier in the product decision stage.
 
