@@ -87,22 +87,22 @@ The largest drop-off occurred between product view and add-to-cart, suggesting t
 Overall conversion was relatively similar across devices:
 
 **Desktop**
-- View → Cart: 20.33%
-- Cart → Checkout: 76.72%
-- Checkout → Purchase: 44.85%
-- View → Purchase: 7.00%
+- View → Add to Cart: 7077 / 36323 = 19.49%
+- Add to Cart → Begin Checkout: 2846 / 7077 = 40.21%
+- Begin Checkout → Purchase: 1613 / 2846 = 56.68%
+- Overall View → Purchase: 1613 / 36323 = 4.44%
 
 **Mobile**
-- View → Cart: 20.73%
-- Cart → Checkout: 77.17%
-- Checkout → Purchase: 46.65%
-- View → Purchase: 7.46%
+- View → Add to Cart: 4953 / 24810 = 19.96%
+- Add to Cart → Begin Checkout: 2004 / 4953 = 40.46%
+- Begin Checkout → Purchase: 1176 / 2004 = 58.68%
+- Overall View → Purchase: 1176 / 24810 = 4.74%
 
 **Tablet**
-- View → Cart: 19.13%
-- Cart → Checkout: 79.35%
-- Checkout → Purchase: 44.29%
-- View → Purchase: 6.72%
+- View → Add to Cart: 263 / 1443 = 18.23%
+- Add to Cart → Begin Checkout: 105 / 263 = 39.92%
+- Begin Checkout → Purchase: 62 / 105 = 59.05%
+- Overall View → Purchase: 62 / 1443 = 4.30%
 
 Device-level conversion was fairly consistent, with mobile slightly outperforming desktop overall. This suggests that drop-off may be driven more by broader shopping behavior or merchandising factors than by device-specific experience issues.
 
@@ -112,7 +112,7 @@ Device-level conversion was fairly consistent, with mobile slightly outperformin
 - Improve product pages so more viewers add items to their cart.
   - Only 19.68% of users who viewed a product moved to `added_to_cart` (12,052 out of 61,252), making this the largest drop-off point in the funnel.
 - Investigate broader purchase funnel friction rather than device-specific fixes first.
-  - Conversion was fairly similar across devices: overall `view_item` → `purchase` was 7.00% on desktop, 7.46% on mobile, and 6.72% on tablet.
+  - Conversion was fairly similar across devices: overall `viewed_item` → `purchased` was 4.44% on desktop, 4.74% on mobile, and 4.30% on tablet.
 
 ## Repository Structure
 ```text
