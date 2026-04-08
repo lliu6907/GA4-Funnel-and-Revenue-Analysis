@@ -60,8 +60,8 @@ SELECT
   (SELECT COUNT(*) FROM purchase_step) AS purchased
 
 -- Result
--- view_item: 61,252
--- add_to_cart: 12,545
--- begin_checkout: 9,715
--- purchase: 4,419
+-- viewed: 61,252
+-- add_to_cart: 12,052
+-- begin_checkout: 4,909
+-- purchase: 2,833
 
