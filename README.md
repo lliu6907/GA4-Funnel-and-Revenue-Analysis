@@ -110,9 +110,9 @@ Device-level conversion was fairly consistent, with mobile slightly outperformin
 - Put more promotional focus on apparel, since it was the strongest revenue-driving category.
   - Apparel generated $171,727, far ahead of New ($25,813) and Bags ($23,860), and made up 66.2% of revenue among the top categories analyzed.
 - Improve product pages so more viewers add items to their cart.
-  - Only 20.48% of users who viewed a product moved to   `add_to_cart` (12,545 out of 61,252), which was the biggest drop-off in the funnel.
+  - Only 19.68% of users who viewed a product moved to `added_to_cart` (12,052 out of 61,252), making this the largest drop-off point in the funnel.
 - Investigate broader purchase funnel friction rather than device-specific fixes first.
-  - Conversion was fairly similar across devices: overall `view_item → purchase` was 7.00% on desktop, 7.46% on mobile, and 6.72% on tablet.
+  - Conversion was fairly similar across devices: overall `view_item` → `purchase` was 7.00% on desktop, 7.46% on mobile, and 6.72% on tablet.
 
 ## Repository Structure
 ```text
