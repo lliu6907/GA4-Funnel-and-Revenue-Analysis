@@ -107,11 +107,11 @@ Overall conversion was relatively similar across devices:
 Device-level conversion was fairly consistent, with mobile slightly outperforming desktop overall. This suggests that drop-off may be driven more by broader shopping behavior or merchandising factors than by device-specific experience issues.
 
 ## Recommendations
-- Put more promotional focus on apparel, since it was the strongest revenue-driving category.
+- Put more promotional focus on **apparel**, since it was the **strongest revenue-driving** category.
   - Apparel generated $171,727, far ahead of New ($25,813) and Bags ($23,860), and made up 66.2% of revenue among the top categories analyzed.
 - Improve product pages so more viewers add items to their cart.
   - Only 19.68% of users who viewed a product moved to `added_to_cart` (12,052 out of 61,252), making this the largest drop-off point in the funnel.
-- Investigate broader purchase funnel friction rather than device-specific fixes first.
+- Investigate broader **purchase funnel friction** rather than **device-specific** fixes first.
   - Conversion was fairly similar across devices: overall `viewed_item` → `purchased` was 4.44% on desktop, 4.74% on mobile, and 4.30% on tablet.
  
 ## Limitations
