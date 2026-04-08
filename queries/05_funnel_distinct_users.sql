@@ -1,4 +1,4 @@
--- Funnel drop-off. When do users stop purchasing?
+-- Sequential user-level funnel drop-off. When do users stop purchasing?
 WITH base AS (
   SELECT
     user_pseudo_id,
